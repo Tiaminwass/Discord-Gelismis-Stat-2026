@@ -10,7 +10,6 @@
 
 ![Bot Full Demo](assets/demo-full.gif)
 
-> For a smoother experience, a compressed preview or video version may be added later.
 
 ---
 
